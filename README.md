@@ -1,6 +1,6 @@
 
 ## Overview
-Intelx-Solid is an implementation of the IntelX API into a SolidJS Client.
+Intelx-php is an implementation of the IntelX API into a PHP.
 
 ## Setup Instructions
 
