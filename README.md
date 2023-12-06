@@ -11,13 +11,16 @@ Intelx-php is an implementation of the IntelX API into a PHP.
 
 ### Installation
 
-1. **Clone the repository or download the source code** to your local machine/server.
+1. **Clone the repository or download the source code**
 
+```
+git clone https://github.com/codefen/intelx-php
+```
 2. **Place the project folder** in your web server's root directory (e.g., `htdocs` for XAMPP).
 
 3. **Start your web server** (Apache, Nginx, etc.).
 
-4. **Open the project** by navigating to `http://localhost/[project-folder-name]` in your web browser.
+4. **Open the project** by navigating to `http://localhost/intelx-php` in your web browser.
 
 ### Configuration
 In order to use the application you must need to set the API Key from [IntelX](https://intelx.io/) in the env variable
