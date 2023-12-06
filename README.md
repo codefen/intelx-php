@@ -6,7 +6,8 @@ Intelx-php is an implementation of the IntelX API into a PHP.
 
 ### Prerequisites
 
-- PHP Server (e.g., XAMPP for Windows)
+- PHP Server (e.g., XAMPP)
+- Donwload: https://www.apachefriends.org/es/download.html
 - Access to a terminal or command line interface
 
 ### Installation
