@@ -20,9 +20,7 @@ Intelx-php is an implementation of the IntelX API into a PHP.
 4. **Open the project** by navigating to `http://localhost/[project-folder-name]` in your web browser.
 
 ### Configuration
-
-- Ensure that the `handler/functions.php` file is correctly set up with necessary functions and configurations.
-- Update the `$apiUrl` and `$apiKey` in `handler/inx.php` with your actual API URL and key.
+In order to use the application you must need to set the API Key from [IntelX](https://intelx.io/) in the env variable
 
 ## API Routes
 
@@ -55,6 +53,3 @@ Intelx-php is an implementation of the IntelX API into a PHP.
 4. **Read (`ac=read`)**:
    - Retrieves the full view of a file.
    - Parameters: `sid` (storage ID), `bid` (bucket ID).
-
-## Notes
-In order to use the application you must need to set the API Key from [IntelX](https://intelx.io/) in the env variable
